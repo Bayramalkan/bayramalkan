@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
           Hi, my name is Bayram. I'm a software engineer.
           <br />
-          I'am improving myself on full stack web technologies and currently on working
+          I'm improving myself on full stack web technologies and currently on working
           @<a href="https://www.monsternotebook.com.tr/">
             Monster Notebook
           </a>
