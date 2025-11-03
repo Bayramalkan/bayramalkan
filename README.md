@@ -27,7 +27,7 @@ Here are some ideas to get you started:
           @<a href="https://www.monsternotebook.com.tr/">
             Monster Notebook
           </a>
-          as a jr.software developer
+          as a Frontend Software Development Specialist
         </p>
 
 ### Contact with me via these platforms!
